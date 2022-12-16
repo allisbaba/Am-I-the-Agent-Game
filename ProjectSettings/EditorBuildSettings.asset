@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Baslangc.unity
+    guid: 8e582616fe10aa24e8e8257885caf6ea
+  - enabled: 1
+    path: Assets/Scenes/TheEdgeCorpScene.unity
+    guid: cd6f8f3b28f001a44a79f87081392609
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 69e10b90d359b6c4d90aec3a9101b885
+  - enabled: 1
+    path: Assets/Scenes/LastScene.unity
+    guid: 3303bf96b39c55b49bb49fcc91db29f7
+  m_configObjects: {}
